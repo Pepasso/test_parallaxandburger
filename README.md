@@ -8,4 +8,6 @@
 
 В обоих проектах html, scss(с конвертацией в css) и не большой js. Сделанно вкачестве тренировки.
 
-[a link](https://pepasso.github.io/test_parallaxandburger/burger_menu/burger.html)
+[Само писное бургер меню, срабатывает при ширине экрана 767px](https://pepasso.github.io/test_parallaxandburger/burger_menu/burger.html)
+[parallax реагирующими на движения (с оригиналом можно ознакомиться здесь https://matthew.wagerfield.com/parallax/)](https://pepasso.github.io/test_parallaxandburger/parallax/paralax.html)
+
